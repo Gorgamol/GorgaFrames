@@ -1,0 +1,6 @@
+## Interface: 80100
+## Title: GorgaFrames
+## Notes: Sets Alpha for Standard UI Raid Frames
+## Author: Gorgamol
+
+GorgaFrames.lua
